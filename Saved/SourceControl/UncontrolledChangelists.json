@@ -8,7 +8,10 @@
 				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/ThirdPerson/Blueprints/BP_RunnerCharacter.uasset",
 				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/BP_RunnerGameMode.uasset",
 				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/ThirdPerson/Lvl_ThirdPerson.umap",
-				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset"
+				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/Input/IA_LaneLeft.uasset",
+				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/Input/IA_LaneRight.uasset",
+				"C:/Users/G6082750/Documents/GitHub/Game_Design_Optimisation/Content/Input/IMC_Default.uasset"
 			]
 		}
 	]
