@@ -1,18 +1,23 @@
-# Unreal Engine generated files
-/Saved/
-/Intermediate/
-/DerivedDataCache/
-/Binaries/
 
-# Editor and IDE files
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Visual Studio files
 /.vs/
 *.sln
+*.suo
 *.VC.db
+*.VC.opendb
+*.user
 
-# Generated plugin files
-**/Intermediate/
-**/Binaries/
+# Editor and OS temporary files
+.vscode/
+Thumbs.db
+.DS_Store
 
-# Temporary files
-*.tmp
-*.log
+# Plugin generated cache
+Plugins/*/Intermediate/
+Plugins/*/Saved/
